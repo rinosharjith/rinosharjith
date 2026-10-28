@@ -57,13 +57,19 @@ I enjoy understanding how things work, experimenting with ideas, and turning wha
 
 ---
 
+
 ### 04 / ACTIVITY
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rinosharjith&bg_color=151716&color=B9BDB5&line=A4B49A&point=E8E5DC&area=true&hide_border=true&custom_title=Building%20Consistency" alt="GitHub activity"/>
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rinosharjith&theme=github_dark"
+  alt="GitHub profile activity summary"
+/>
 
 </div>
+
 
 ---
 

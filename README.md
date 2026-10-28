@@ -83,7 +83,7 @@ I enjoy understanding how things work, experimenting with ideas, and turning wha
 
 </div>
 
-A growing collection of experiments, learning projects, and practical implementations.
+                          A growing collection of experiments, learning projects, and practical implementations.
 
 ---
 
